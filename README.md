@@ -1,2 +1,5 @@
 # hello-world
-Description placeholder.
+
+Hi Humans!
+
+Placeholder description...
